@@ -17,7 +17,7 @@ export const category = [
         title: 'Blog Writing',
         describe:' Write SEO enriched blog posts as long or short articles on any topic of your choice .'
     },
-        {
+    {
         display: 'https://i.pinimg.com/236x/fc/89/12/fc8912cc817702f6bd7dd5d7c563f89d.jpg',
         title: 'Animated Videos',
         describe:'Bring animated characters to life to keep your viewers engaged and  entertained.'

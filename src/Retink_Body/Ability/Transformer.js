@@ -10,6 +10,7 @@ const Transformer = () => {
       <div className="container">
         {ourAbility.map((card) => (
             <div className="cards">
+                <div data-aos="zoom-out-down">
                 <div className="logos">
                     <span>
                         <img src={card.icon}  alt='pics'/>
@@ -29,7 +30,8 @@ const Transformer = () => {
                         {card.describe}
                     </p>
                 </div>
-                </div>
+            </div>
+            </div>
         )
             )
         }

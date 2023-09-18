@@ -3,7 +3,7 @@ import Transformer from './Ability/Transformer'
 import Footer from './footer/Footer'
 import SignUp from './SignUp'
 import Video from '../video/Video'
-import Categories from './Categories'
+import Categories from './Caterogies/Categories'
 import WelcomeSignup from './welcomePage/WelcomeSignup';
 
 
